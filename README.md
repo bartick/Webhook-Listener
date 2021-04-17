@@ -39,7 +39,7 @@ python wehook.py
 ```
 
 ### Top.gg Server Setup
-> Go to [top.gg](https://docs.top.gg/) docs to read how to setup the webhhook url for server. But in sort it is `https://your-website/webhook`
+> Go to [top.gg](https://docs.top.gg/) docs to read how to setup the webhhook url for server. But in short it is `https://your-website/webhook`
 
 
 ## Conclusion
